@@ -9,6 +9,7 @@ h1{
 p{
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify; 
 }
 li{
     font-size: 35px;
